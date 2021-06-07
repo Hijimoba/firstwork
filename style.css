@@ -31,7 +31,7 @@ input{
 }
 .background{
     background-color: powderblue;
-    background-image: url(/pic1.jpg);
+    background-image: url(pic1.jpg);
     background-position: right top;
     height: 500px;
 }
